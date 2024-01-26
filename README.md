@@ -1,5 +1,5 @@
 # Pain-Thermal-Learning
-Analyses code for the paper "Precision of Thermosensory Expectations  Modulates Illusory Pain"
+Public repository for data, code and figures in manuscript titled: "Precision of Thermosensory Expectations  Modulates Illusory Pain"
 
 
 
