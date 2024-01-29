@@ -1,7 +1,6 @@
 # Uncertainty in Thermosensory Expectations Enhances an Illusion of Pain
 Public repository for data, code and figures used in this study
 
-
 ## Table of Contents
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
@@ -14,9 +13,7 @@ Public repository for data, code and figures used in this study
 The human brain has a remarkable ability to learn and update its beliefs about the world. Here, we investigate how thermosensory learning shapes our subjective experience of temperature and the misperception of pain in response to harmless thermal stimuli. Through computational modeling, we demonstrate that the brain uses a probabilistic scheme to update beliefs about temperature changes based on their uncertainty. We find that these expectations directly modulate the perception of pain in the thermal grill illusion. Quantitative microstructural brain imaging revealed that the myeloarchitecture and iron content of the somatosensory cortex, the posterior insula and the amygdala reflect inter-individual variability in computational parameters related to learning and the degree to which uncertainty modulates illusory pain perception. Our findings offer a new framework to explain how the brain infers pain from innocuous thermal inputs. Our model has important implications for understanding the etiology of thermosensory symptoms in chronic pain conditions.
 
 ## Introduction
-This is all the scripts used to run and generate the results and analyses as well as the manuscript for the paper:
-"Thermosensory Expectations Modulate Illusory Pain via Bayesian Predictive Coding".
-For complete reproducibility the project is embedded with [OSF](https://osf.io/pw956/) for either rerunning or obtaining the results. The computational environment can be reproduced using the [renv](https://rstudio.github.io/renv/articles/renv.html) package for R environments.
+This repository contains all the scripts necessary to execute and generate the results, analyses, and the manuscript for the research paper titled "Thermosensory Expectations Modulate Illusory Pain via Bayesian Predictive Coding." To ensure complete reproducibility, the project is integrated with the Open Science Framework [OSF](https://osf.io/pw956/)  to facilitate either the rerunning of analyses or the retrieval of results. Additionally, the computational environment required for these analyses can be precisely replicated using the [renv](https://rstudio.github.io/renv/articles/renv.html) package, which is specifically designed for managing R environments. This setup guarantees that other researchers can accurately reproduce and build upon the work presented in this study.
 
 
 ## Directory Structure
@@ -25,7 +22,7 @@ The repository is structured in the following way:
 
 ```         
 Thermal Pain Learning/
-├── README.md             # overview of the project.
+├── README.md             # Overview of the project.
 │
 ├── Figures/              # Figures generated from code to the from the final manuscript.
 │   └── ... 
@@ -77,7 +74,7 @@ To get access to the data for running the analysis a OSF-token is needed, as the
 To get access to the repository users are recommended to clone the respository with the following command in the terminal
 
 ```bash
-git clone  https://github.com/Body-Pain-Perception-Lab/Thermal-Pain-Learning.git
+git clone  https://github.com/Body-Pain-Perception-Lab/Pain-Thermal-Learning.git
 ```
 
 ## Reproducibility
