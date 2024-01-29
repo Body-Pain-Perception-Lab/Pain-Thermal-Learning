@@ -1,15 +1,17 @@
-# Pain-Thermal-Learning
-Public repository for data, code and figures in manuscript titled: "Precision of Thermosensory Expectations  Modulates Illusory Pain"
-
+# Uncertainty in Thermosensory Expectations Enhances an Illusion of Pain
+Public repository for data, code and figures used in this study
 
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Directory Structure](#directory-structure)
-3. [Access](#access)
-4. [Reproducibility](#reproducibility)
-5. [Usage](#usage)
+1. [Abstract](#abstract)
+2. [Introduction](#introduction)
+3. [Directory Structure](#directory-structure)
+4. [Access](#access)
+5. [Reproducibility](#reproducibility)
+6. [Usage](#usage)
 
+## Abstract
+The human brain has a remarkable ability to learn and update its beliefs about the world. Here, we investigate how thermosensory learning shapes our subjective experience of temperature and the misperception of pain in response to harmless thermal stimuli. Through computational modeling, we demonstrate that the brain uses a probabilistic scheme to update beliefs about temperature changes based on their uncertainty. We find that these expectations directly modulate the perception of pain in the thermal grill illusion. Quantitative microstructural brain imaging revealed that the myeloarchitecture and iron content of the somatosensory cortex, the posterior insula and the amygdala reflect inter-individual variability in computational parameters related to learning and the degree to which uncertainty modulates illusory pain perception. Our findings offer a new framework to explain how the brain infers pain from innocuous thermal inputs. Our model has important implications for understanding the etiology of thermosensory symptoms in chronic pain conditions.
 
 ## Introduction
 This is all the scripts used to run and generate the results and analyses as well as the manuscript for the paper:
