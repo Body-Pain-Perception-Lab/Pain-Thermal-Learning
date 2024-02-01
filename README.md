@@ -1,5 +1,5 @@
 # Uncertainty in Thermosensory Expectations Enhances an Illusion of Pain
-Public repository for data, code and figures used in this study
+Public repository containing the data, source code, and visualizations used in this study, to be made accessible upon the manuscript's acceptance in a peer-reviewed journal.
 
 ## Table of Contents
 1. [Abstract](#abstract)
